@@ -1,0 +1,7 @@
+C:\Users\MathiasAronsen\OneDrive\Desktop\Programs\VersionChecker\VersionChecker\bin\Release\VersionChecker.exe.config
+C:\Users\MathiasAronsen\OneDrive\Desktop\Programs\VersionChecker\VersionChecker\bin\Release\VersionChecker.exe
+C:\Users\MathiasAronsen\OneDrive\Desktop\Programs\VersionChecker\VersionChecker\bin\Release\VersionChecker.pdb
+C:\Users\MathiasAronsen\OneDrive\Desktop\Programs\VersionChecker\VersionChecker\obj\Release\VersionChecker.csproj.AssemblyReference.cache
+C:\Users\MathiasAronsen\OneDrive\Desktop\Programs\VersionChecker\VersionChecker\obj\Release\VersionChecker.csproj.CoreCompileInputs.cache
+C:\Users\MathiasAronsen\OneDrive\Desktop\Programs\VersionChecker\VersionChecker\obj\Release\VersionChecker.exe
+C:\Users\MathiasAronsen\OneDrive\Desktop\Programs\VersionChecker\VersionChecker\obj\Release\VersionChecker.pdb
